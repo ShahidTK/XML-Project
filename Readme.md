@@ -44,4 +44,4 @@ A real-time collaborative platform designed to bring developers and teams togeth
 * [Ashutosh Pathak]  
 * [Purushottam Kumar]  
 * [Harshit Sahu]  
-* [Sourabh Choudhary]
+* [Saurabh Chaudhary]
